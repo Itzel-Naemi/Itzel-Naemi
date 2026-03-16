@@ -1,7 +1,6 @@
 # Hola, soy Itzel Naemi Fiedler Hernández 👋
 
 🎓 Estudiante de Ingeniería en Sistemas Computacionales  
-
 💻 Interesada en programación, redes y bases de datos  
 📚 Actualmente aprendiendo JavaScript y Python
 
